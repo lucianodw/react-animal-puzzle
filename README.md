@@ -7,3 +7,8 @@
 
 
 A chess-like game forcing you to get from the start to the finish by transforming into different animals which would allow you to bypass certain obstacles.
+
+GAME IS CURRENTLY IN DEVELOPMENT...
+
+You can demo at:
+animals.ddwenterprises.com
